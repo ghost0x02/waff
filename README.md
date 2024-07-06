@@ -1,7 +1,7 @@
 [![asciicast](https://asciinema.org/a/xaf14UN35W6rqNpxOjoFMt0xf.svg)](https://asciinema.org/a/xaf14UN35W6rqNpxOjoFMt0xf)
 
 
-## KALİ LİNUX İÇİN KURULUM;
+## KALİ LİNUX İÇİN KURULUM:
 
 ```
 git clone https://www.github.com/ghost0x02/waff
