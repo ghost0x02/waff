@@ -1,7 +1,6 @@
 ## KALİ LİNUX İÇİN KURULUM;
 
 ```
-apt-get install python3-pip
 git clone https://www.github.com/ghost0x02/waff
 cd waff
 ÇALIŞMASI İÇİN ÖRNEK SİTEDE BİR KOD:
