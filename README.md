@@ -1,4 +1,3 @@
-[![asciicast](https://asciinema.org/a/xaf14UN35W6rqNpxOjoFMt0xf.svg)](https://asciinema.org/a/xaf14UN35W6rqNpxOjoFMt0xf)
 
 
 ## KALİ LİNUX İÇİN KURULUM:
