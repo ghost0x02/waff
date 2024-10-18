@@ -1,4 +1,4 @@
-
+[url=https://hizliresim.com/1mi7t3d][img]https://i.hizliresim.com/1mi7t3d.gif[/img][/url]
 
 ## KALİ LİNUX İÇİN KURULUM:
 
