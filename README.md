@@ -1,5 +1,5 @@
 
-<a href="https://hizliresim.com/1mi7t3d"><img src="https://i.hizliresim.com/1mi7t3d.gif" alt="Resim Yükle"></a>
+<a href="https://hizliresim.com/2f0ixhf"><img src="https://i.hizliresim.com/2f0ixhf.jpg" alt="Resim Yükle"></a>
 ## KALİ LİNUX İÇİN KURULUM:
 
 ```
